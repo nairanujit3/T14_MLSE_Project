@@ -37,7 +37,6 @@ Upload an image → CLIP retrieves the closest caption → Ollama LLM (Gemma-3 4
 ├── rag_env/ # Python virtual environment
 │
 ├── app.py # Streamlit Web App
-├── rag_cli.py # Command-line App (no UI)
 ├── prepare_index.py # Builds FAISS indices (one-time)
 ├── requirements.txt
 └── README.md
