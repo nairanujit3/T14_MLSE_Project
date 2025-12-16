@@ -116,8 +116,7 @@ Features:
 - Add stable diffusion or SDXL for generating images
 - Multi-image retrieval
 - FastAPI backend + React/Flutter front-end
-
--GPU-accelerated inference
+- GPU-accelerated inference
 
 
 
