@@ -79,15 +79,17 @@ streamlit run app.py
 
 Features:
 - Text → Image (Create Image)
-    Enter a prompt
-    CLIP retrieves the closest image
-    Only the final matched image is shown
+  
+    - Enter a prompt
+    - CLIP retrieves the closest image
+    - Only the final matched image is shown
     (no captions, no similarity scores)
 
 - Image → Text (Generate Text)
-    Upload an image
-    CLIP retrieves the closest caption
-    Ollama turns it into a creative, story-like paragraph
+  
+    - Upload an image
+    - CLIP retrieves the closest caption
+    - Ollama turns it into a creative, story-like paragraph
     (no dataset images or captions displayed)
 
 ### 🧠 Architecture (How It Works)
