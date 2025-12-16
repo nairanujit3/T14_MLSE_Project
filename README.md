@@ -1,6 +1,7 @@
 # T14_MLSE_Project
 
 Anujit Nair - 202418036
+
 Vaibhav Agrawal - 202418059
 
 # 🚀 Multimodal RAG System (CLIP + FAISS + Ollama)
