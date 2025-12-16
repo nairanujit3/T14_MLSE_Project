@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+numpy>=1.26.0
+pillow>=10.0.0
+torch>=2.1.0
+transformers>=4.40.0
+faiss-cpu>=1.7.4
+ollama>=0.1.7
+accelerate>=0.30.0
+sentencepiece>=0.1.99
