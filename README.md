@@ -22,6 +22,7 @@ Upload an image → CLIP retrieves the closest caption → Ollama LLM (Gemma-3 4
 ---
 
 ## 📁 Project Structure
+```
 ├── data/
 │ ├── images/ # Dataset images
 │ └── dataset.csv # Image paths + captions (image_path, caption)
@@ -40,7 +41,7 @@ Upload an image → CLIP retrieves the closest caption → Ollama LLM (Gemma-3 4
 ├── prepare_index.py # Builds FAISS indices (one-time)
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## ⚙️ Installation
