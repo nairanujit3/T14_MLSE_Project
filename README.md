@@ -120,4 +120,7 @@ Features:
 - GPU-accelerated inference
 
 
+<video src="[https://github.com/user-attachments/assets/ea6a4f6b-8e4f-4022-8bfa-2e0f9b2e701e]" controls title="Video Title"></video>
+
+
 
